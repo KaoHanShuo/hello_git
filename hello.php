@@ -1,4 +1,4 @@
 <?
 
-echo "hello php & git";
+echo "hello php & gitttttttttt";
 ?>
